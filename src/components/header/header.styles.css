@@ -1,0 +1,32 @@
+.header-container {
+    display: inline-flex;
+    flex-direction: row;
+    position: absolute;
+    height: 60px;
+    width: auto;
+    left: 16px;
+    right: 16px;
+    top: 20px;
+    overflow-wrap: normal;
+    color: rgb(9, 155, 155);
+}
+
+.logo-container {
+    position: absolute;
+    width: 55px;
+    height: 37px;
+    left: 16px;
+    top: 12px;
+}
+
+.logo  {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    /* Secondary / 100 */
+    
+    fill: #70EFDE;
+}
